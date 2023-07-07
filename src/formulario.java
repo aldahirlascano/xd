@@ -7,6 +7,7 @@ public class formulario {
     private JButton Guardar;
     private JButton Cargar;
     private JPanel forma;
+    //hola
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("formulario");
